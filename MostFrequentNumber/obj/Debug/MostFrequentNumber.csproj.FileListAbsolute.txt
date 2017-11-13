@@ -1,0 +1,6 @@
+D:\VSProjects\FilesDirectoriesAndExceptions\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe.config
+D:\VSProjects\FilesDirectoriesAndExceptions\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe
+D:\VSProjects\FilesDirectoriesAndExceptions\MostFrequentNumber\bin\Debug\MostFrequentNumber.pdb
+D:\VSProjects\FilesDirectoriesAndExceptions\MostFrequentNumber\obj\Debug\MostFrequentNumber.csprojResolveAssemblyReference.cache
+D:\VSProjects\FilesDirectoriesAndExceptions\MostFrequentNumber\obj\Debug\MostFrequentNumber.exe
+D:\VSProjects\FilesDirectoriesAndExceptions\MostFrequentNumber\obj\Debug\MostFrequentNumber.pdb

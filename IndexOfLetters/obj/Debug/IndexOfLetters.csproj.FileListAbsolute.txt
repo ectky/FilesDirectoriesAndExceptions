@@ -1,0 +1,5 @@
+D:\VSProjects\FilesDirectoriesAndExceptions\IndexOfLetters\bin\Debug\IndexOfLetters.exe.config
+D:\VSProjects\FilesDirectoriesAndExceptions\IndexOfLetters\bin\Debug\IndexOfLetters.exe
+D:\VSProjects\FilesDirectoriesAndExceptions\IndexOfLetters\bin\Debug\IndexOfLetters.pdb
+D:\VSProjects\FilesDirectoriesAndExceptions\IndexOfLetters\obj\Debug\IndexOfLetters.exe
+D:\VSProjects\FilesDirectoriesAndExceptions\IndexOfLetters\obj\Debug\IndexOfLetters.pdb

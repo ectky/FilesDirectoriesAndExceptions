@@ -1,0 +1,6 @@
+D:\VSProjects\FilesDirectoriesAndExceptions\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe.config
+D:\VSProjects\FilesDirectoriesAndExceptions\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe
+D:\VSProjects\FilesDirectoriesAndExceptions\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.pdb
+D:\VSProjects\FilesDirectoriesAndExceptions\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+D:\VSProjects\FilesDirectoriesAndExceptions\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.exe
+D:\VSProjects\FilesDirectoriesAndExceptions\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.pdb

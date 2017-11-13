@@ -1,0 +1,6 @@
+D:\VSProjects\FilesDirectoriesAndExceptions\FixEmails\bin\Debug\FixEmails.exe.config
+D:\VSProjects\FilesDirectoriesAndExceptions\FixEmails\bin\Debug\FixEmails.exe
+D:\VSProjects\FilesDirectoriesAndExceptions\FixEmails\bin\Debug\FixEmails.pdb
+D:\VSProjects\FilesDirectoriesAndExceptions\FixEmails\obj\Debug\FixEmails.csprojResolveAssemblyReference.cache
+D:\VSProjects\FilesDirectoriesAndExceptions\FixEmails\obj\Debug\FixEmails.exe
+D:\VSProjects\FilesDirectoriesAndExceptions\FixEmails\obj\Debug\FixEmails.pdb
