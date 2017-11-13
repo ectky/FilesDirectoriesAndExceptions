@@ -1,0 +1,5 @@
+D:\VSProjects\FilesDirectoriesAndExceptions\BookLibraryModification\bin\Debug\BookLibraryModification.exe.config
+D:\VSProjects\FilesDirectoriesAndExceptions\BookLibraryModification\bin\Debug\BookLibraryModification.exe
+D:\VSProjects\FilesDirectoriesAndExceptions\BookLibraryModification\bin\Debug\BookLibraryModification.pdb
+D:\VSProjects\FilesDirectoriesAndExceptions\BookLibraryModification\obj\Debug\BookLibraryModification.exe
+D:\VSProjects\FilesDirectoriesAndExceptions\BookLibraryModification\obj\Debug\BookLibraryModification.pdb

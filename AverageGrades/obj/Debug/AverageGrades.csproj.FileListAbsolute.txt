@@ -1,0 +1,6 @@
+D:\VSProjects\FilesDirectoriesAndExceptions\AverageGrades\bin\Debug\AverageGrades.exe.config
+D:\VSProjects\FilesDirectoriesAndExceptions\AverageGrades\bin\Debug\AverageGrades.exe
+D:\VSProjects\FilesDirectoriesAndExceptions\AverageGrades\bin\Debug\AverageGrades.pdb
+D:\VSProjects\FilesDirectoriesAndExceptions\AverageGrades\obj\Debug\AverageGrades.csprojResolveAssemblyReference.cache
+D:\VSProjects\FilesDirectoriesAndExceptions\AverageGrades\obj\Debug\AverageGrades.exe
+D:\VSProjects\FilesDirectoriesAndExceptions\AverageGrades\obj\Debug\AverageGrades.pdb

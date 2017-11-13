@@ -1,0 +1,5 @@
+D:\VSProjects\FilesDirectoriesAndExceptions\AMinerTask\bin\Debug\AMinerTask.exe.config
+D:\VSProjects\FilesDirectoriesAndExceptions\AMinerTask\bin\Debug\AMinerTask.exe
+D:\VSProjects\FilesDirectoriesAndExceptions\AMinerTask\bin\Debug\AMinerTask.pdb
+D:\VSProjects\FilesDirectoriesAndExceptions\AMinerTask\obj\Debug\AMinerTask.exe
+D:\VSProjects\FilesDirectoriesAndExceptions\AMinerTask\obj\Debug\AMinerTask.pdb

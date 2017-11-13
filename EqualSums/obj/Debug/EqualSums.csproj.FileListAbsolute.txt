@@ -1,0 +1,6 @@
+D:\VSProjects\FilesDirectoriesAndExceptions\EqualSums\bin\Debug\EqualSums.exe.config
+D:\VSProjects\FilesDirectoriesAndExceptions\EqualSums\bin\Debug\EqualSums.exe
+D:\VSProjects\FilesDirectoriesAndExceptions\EqualSums\bin\Debug\EqualSums.pdb
+D:\VSProjects\FilesDirectoriesAndExceptions\EqualSums\obj\Debug\EqualSums.csprojResolveAssemblyReference.cache
+D:\VSProjects\FilesDirectoriesAndExceptions\EqualSums\obj\Debug\EqualSums.exe
+D:\VSProjects\FilesDirectoriesAndExceptions\EqualSums\obj\Debug\EqualSums.pdb
